@@ -1,0 +1,70 @@
+/* phone CSS */
+
+.right-d img {
+    height: 341px;
+    width : 27vw;
+}
+
+.left-d img {
+    height: 115px;
+}
+
+.left-d {
+    margin-bottom: 32px;
+}
+
+.sections {
+    flex-direction: column;
+}
+
+.section {
+    width        : 73vw;
+    gap          : 15px;
+    border       : solid black 2px;
+    border-radius: 5px;
+    padding      : 13px 0;
+}
+
+.section h3 {
+    font-size: 1rem;
+}
+
+.para {
+    padding  : 0px 0px;
+    width    : 71%;
+    font-size: 14px;
+}
+
+
+.timer {
+    font-size: 16px;
+    padding  : 10px 0px;
+}
+
+.btn {
+    font-size    : 12px;
+    padding      : 6px 14px;
+    border-radius: 8px;
+}
+
+
+.main1 h2 {
+    line-height: 45px;
+    font-size  : 1.7rem;
+}
+
+.main1>.para {
+    width: 74%;
+}
+
+.main2 h2 {
+    line-height: 71px;
+    font-size  : 1.8rem;
+}
+
+
+
+.footer {
+    min-height: 100px;
+    font-size : 15px;
+}
